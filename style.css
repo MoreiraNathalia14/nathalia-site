@@ -1,4 +1,10 @@
 body {
 color:black;
 background: cornflowerblue;
+margin: 2px;
+}
+
+header {
+border-bottom: solid 2px rgb( 154, 13, 215);
+padding: 20px;
 }
