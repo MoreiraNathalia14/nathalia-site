@@ -2,7 +2,7 @@ body {
 color:black;
 background: rgb(130, 166, 233);
 margin: 2px;
-font-family: "Passions Conflict", cursive;
+font-family: "Macondo", cursive;
 }
 
 header {
@@ -30,4 +30,7 @@ font-size: 40px;
 
 p {
     font-size: 25px;
+}
+img {
+    height: 200px;
 }
